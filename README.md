@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./projectvani.png" alt="Project VANI Logo" width="180" />
+  <img src="./project-vani.png" alt="Project VANI Logo" width="180" />
 </p>
 
 <h1 align="center">🚀 Project VANI</h1>
