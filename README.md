@@ -1,5 +1,14 @@
-# 🚀 Project VANI
+<p align="center">
+  <img src="./projectvani.png" alt="Project VANI Logo" width="180" />
+</p>
 
+<h1 align="center">🚀 Project VANI</h1>
+
+<p align="center">
+  <b>AI & Multilingual Communication Platform</b>
+</p>
+
+---
 **Project VANI** is a next-generation AI assistant platform focused on building multilingual, emotional, and voice-based intelligent systems.
 
 Our goal is to create a human-like AI companion that can communicate naturally, remember users, and support them in daily life and work.
