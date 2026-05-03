@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./project-vani.png" alt="Project VANI Logo" width="180" />
-</p>
 
 <h1 align="center">🚀 Project VANI</h1>
 
